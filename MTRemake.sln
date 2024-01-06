@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTRemake", "MTRemake.csproj", "{DF969CF7-A061-4B73-BCF0-F1E2E853BD2B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MTSetup", "..\MTSetup\MTSetup.vdproj", "{A629C660-DD46-41FD-95B5-B125037D86B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF969CF7-A061-4B73-BCF0-F1E2E853BD2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF969CF7-A061-4B73-BCF0-F1E2E853BD2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF969CF7-A061-4B73-BCF0-F1E2E853BD2B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DF969CF7-A061-4B73-BCF0-F1E2E853BD2B}.Debug|x86.Build.0 = Debug|Any CPU
+		{DF969CF7-A061-4B73-BCF0-F1E2E853BD2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF969CF7-A061-4B73-BCF0-F1E2E853BD2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF969CF7-A061-4B73-BCF0-F1E2E853BD2B}.Release|x86.ActiveCfg = Release|Any CPU
+		{DF969CF7-A061-4B73-BCF0-F1E2E853BD2B}.Release|x86.Build.0 = Release|Any CPU
+		{A629C660-DD46-41FD-95B5-B125037D86B7}.Debug|Any CPU.ActiveCfg = Debug
+		{A629C660-DD46-41FD-95B5-B125037D86B7}.Debug|x86.ActiveCfg = Debug
+		{A629C660-DD46-41FD-95B5-B125037D86B7}.Release|Any CPU.ActiveCfg = Release
+		{A629C660-DD46-41FD-95B5-B125037D86B7}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1F17602-9FAF-447F-AFA3-AEBADE04C0DC}
+	EndGlobalSection
+EndGlobal
