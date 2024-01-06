@@ -57,5 +57,5 @@ Experience the convenience and efficiency of MTRemake in revolutionizing your vi
 ### Settings Page
 ![Sett](https://github.com/Mazen20021/MTRemake/assets/131156076/3fdc4000-2c44-4bb1-85d0-d7543fb20792)
 
-### Money Conerceny Page
+### Money Convercy Page
 ![CM](https://github.com/Mazen20021/MTRemake/assets/131156076/158beeef-e33b-442a-b796-367cde9aa922)
