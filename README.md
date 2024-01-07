@@ -54,8 +54,6 @@ Experience the convenience and efficiency of MTRemake in revolutionizing your vi
 ### Worked Hours Page
 ![Worked H](https://github.com/Mazen20021/MTRemake/assets/131156076/4457a853-8f85-4ebd-92a6-58c83c5e8deb)
 
-### Settings Page
-![Sett](https://github.com/Mazen20021/MTRemake/assets/131156076/3fdc4000-2c44-4bb1-85d0-d7543fb20792)
 
 ### Money Convercy Page
 ![CM](https://github.com/Mazen20021/MTRemake/assets/131156076/158beeef-e33b-442a-b796-367cde9aa922)
